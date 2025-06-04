@@ -1,0 +1,3 @@
+welcome to ansible file
+helllo rohit
+e:\CLOUD COMPUTING\warfile-code-maven\warfile-code-maven\src
